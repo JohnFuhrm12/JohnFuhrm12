@@ -1,6 +1,6 @@
 - Hi, I’m @JohnFuhrm12
 - I’m interested in Data Analysis and Remote Work
-- I’m currently learning Python and SQL
+- I’m currently learning Backedn Development using Python and Frontend Development with Html, Css and Flexbox, and Javascript
 - I'm interested in collaborating on interesting projects that I can learn from
 - You can reach me by email - johnfuhrmeister12@gmail.com
 
