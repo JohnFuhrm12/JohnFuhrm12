@@ -1,4 +1,4 @@
-- Hi, I’m @JohnFuhrm12
+- Hi, I’m @JohnFuhrm12!
 - I’m interested in Data Analysis, Web Development, and Remote Work
 - I’m currently learning Backend Development using Python and Frontend Development with Html, Css, and Javascript
 - I'm interested in collaborating on interesting projects that I can learn from
