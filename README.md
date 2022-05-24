@@ -1,8 +1,7 @@
 - Hi, I’m @JohnFuhrm12!
-- I’m interested in Data Analysis, Web Development, and Remote Work
-- I’m currently learning Backend Development using Python and Frontend Development with Html, Css, and Javascript
-- I'm interested in collaborating on interesting projects that I can learn from
-- You can reach me by email - johnfuhrmeister12@gmail.com
+- I am a full stack software engineer with a focus on web development using React.js and Django.
+- I’m currently advancing my knowledge of React.js and other frontend technologies and libraries like Node.js and Express.js.
+- You can reach me by email - johnfuhrmeister12@gmail.com or through my portfolio site.
 
 <!---
 JohnFuhrm12/JohnFuhrm12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
