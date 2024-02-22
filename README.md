@@ -4,3 +4,5 @@
 - You can reach me by email - johnfuhrmeister12@gmail.com or through my portfolio site https://johnfuhrmeister.com.
 
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnFuhrm12&show_icons=true&theme=highcontrast&title_color=03d7fc)](github-readme-stats-eight-weld-81.vercel.app)
+
+[![John's GitHub stats](github-readme-stats-three-ashy-17.vercel.app/api?username=JohnFuhrm12&show_icons=true&theme=highcontrast&title_color=03d7fc)](github-readme-stats-three-ashy-17.vercel.app)
