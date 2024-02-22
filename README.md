@@ -3,4 +3,4 @@
 - I’m currently advancing my knowledge of React.js and other frontend technologies and libraries like Next.js.
 - You can reach me by email - johnfuhrmeister12@gmail.com or through my portfolio site.
 
-- ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=john&show_icons=true&theme=transparent)
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnfuhrm12)](https://github.com/johnfuhrm12/github-readme-stats)
